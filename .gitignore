@@ -3,3 +3,4 @@ sample_data
 .idea
 .DS_Store
 .venv/
+data/
