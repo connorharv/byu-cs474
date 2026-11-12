@@ -4,3 +4,12 @@ sample_data
 .DS_Store
 .venv/
 data/
+/text_files/abab.txt
+/text_files/abcd.txt
+/text_files/alma.txt
+/text_files/lotr.txt
+/text_files/switch.bat.txt
+/text_files/switch.sh
+/text_files/test1.txt
+/text_files.tar.gz
+/text_files/tiny_shakespeare.txt
